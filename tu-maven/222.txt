@@ -1,0 +1,3 @@
+The language F is astonishingly expressive. Not only are all (lazy) finite products and sums definable in the language, but so are all (lazy) inductive and coinductive types. Their definability is
+most naturally expressed using definitional equality, which is the least congruence containing the
+following two axioms:

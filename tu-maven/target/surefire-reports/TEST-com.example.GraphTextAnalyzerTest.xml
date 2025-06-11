@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.GraphTextAnalyzerTest" time="0.366" tests="8" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="F:\Desktop\temo1\tu-maven\target\test-classes;F:\Desktop\temo1\tu-maven\target\classes;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\Administrator\AppData\Local\Temp\surefire5853853626661484235\surefirebooter-20250602014505154_3.jar C:\Users\Administrator\AppData\Local\Temp\surefire5853853626661484235 2025-06-02T01-45-03_344-jvmRun1 surefire-20250602014505154_1tmp surefire_0-20250602014505154_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="F:\Desktop\temo1\tu-maven\target\test-classes;F:\Desktop\temo1\tu-maven\target\classes;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;D:\apache-maven-3.9.8-bin\MAVEN—localrepository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="F:\Desktop\temo1\tu-maven"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Administrator\AppData\Local\Temp\surefire5853853626661484235\surefirebooter-20250602014505154_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.6+10"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.6+10"/>
+    <property name="localRepository" value="D:\apache-maven-3.9.8-bin\MAVEN—localrepository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.6"/>
+    <property name="user.dir" value="F:\Desktop\temo1\tu-maven"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:\ANACONDA\condabin;c:\Users\Administrator\.trae\sdks\workspaces\5d9fe819\versions\node\current;c:\Users\Administrator\.trae\sdks\versions\node\current;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\Users\Administrator\.trae\tools\maven\latest\bin;C:\Users\Administrator\.trae\tools\gradle\latest\bin;c:\Users\Administrator\.trae\sdks\workspaces\5d9fe819\versions\node\current;c:\Users\Administrator\.trae\sdks\versions\node\current;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\Users\Administrator\.trae\tools\maven\latest\bin;C:\Users\Administrator\.trae\tools\gradle\latest\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\VmwareWorkstation_16.1.0\bin\;C:\Program Files\Azure Data Studio\bin;E:\Matlab\bin;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\AWS\;D:\bin;F:\ANACONDA;F:\ANACONDA\Scripts;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Administrator\AppData\Local\Programs\Python\Python311;F:\ANACONDA\Library;F:\ANACONDA\Library\mingw-w64\bin;F:\ANACONDA\Library\bin;F:\ANACONDA\Library\usr\bin;C:\Program Files\Docker\Docker\resources\bin;F:\Go\bin;D:\GPG\GnuPG\bin;D:\Node.js\;C:\Program Files\Java;D:\apache-zookeeper-3.6.4-bin\apache-zookeeper-3.6.4-bin\bin;D:\windows-amd64;C:\Program Files\Git\cmd;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\apache-maven\apache-maven-3.9.9\bin;C:\mingw64\bin;C:\cygwin64\bin;C:\MinGW\bin;D:\ollama;C:\Program Files\dotnet\;F:\Graphviz\Graphviz-12.2.1-win64\bin;C:\Users\Administrator\AppData\Roaming\npm\node_modules\pnpm\bin;C:\Users\Administrator\AppData\Roaming\npm\node_modules\pnpm;C:\Users\Administrator\AppData\Roaming\npm;F:\bindiff\bin;F:\bindiff\bin;D:\AliDownload\IDA Pro 8.3 (x86, x86_64) For Windows\IDA Pro 8.3 (x86, x86_64);C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\VmwareWorkstation_16.1.0\bin\;C:\Program Files\Azure Data Studio\bin;E:\Matlab\bin;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\AWS\;D:\bin;F:\ANACONDA;F:\ANACONDA\Scripts;F:\ANACONDA\Library;F:\ANACONDA\Library\mingw-w64\bin;F:\ANACONDA\Library\bin;F:\ANACONDA\Library\usr\bin;C:\Program Files\Docker\Docker\resources\bin;F:\Go\bin;D:\GPG\GnuPG\bin;D:\Node.js\;C:\Program Files\Java;D:\apache-zookeeper-3.6.4-bin\apache-zookeeper-3.6.4-bin\bin;D:\windows-amd64;C:\Program Files\Git\cmd;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\apache-maven\apache-maven-3.9.9\bin;C:\mingw64\bin;C:\cygwin64\bin;C:\MinGW\bin;F:\mysql\bin\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\.dotnet\tools;E:\Microso;d:\ollama;F:\cursor\resources\app\bin;F:\Graphviz\Graphviz-12.2.1-win64\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.6+10"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testRandomWalkComplexGraph" classname="com.example.GraphTextAnalyzerTest" time="0.116"/>
+  <testcase name="testRandomWalk" classname="com.example.GraphTextAnalyzerTest" time="0.011"/>
+  <testcase name="testRandomWalkWithEmptyGraph" classname="com.example.GraphTextAnalyzerTest" time="0.003"/>
+  <testcase name="testQueryBridgeWords" classname="com.example.GraphTextAnalyzerTest" time="0.004"/>
+  <testcase name="testRandomWalkWithSpecificGraph1" classname="com.example.GraphTextAnalyzerTest" time="0.005"/>
+  <testcase name="testRandomWalkWithSpecificGraph2" classname="com.example.GraphTextAnalyzerTest" time="0.064"/>
+  <testcase name="testRandomWalkWithSingleNode" classname="com.example.GraphTextAnalyzerTest" time="0.006"/>
+  <testcase name="testRandomWalkWithChineseCharacters" classname="com.example.GraphTextAnalyzerTest" time="0.036"/>
+</testsuite>
